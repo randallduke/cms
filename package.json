@@ -1,0 +1,22 @@
+{
+  "name": "cms",
+  "version": "1.0.1",
+  "description": "CMS in Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randallduke/cms.git"
+  },
+  "author": "Randall Duke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randallduke/cms/issues"
+  },
+  "homepage": "https://github.com/randallduke/cms#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
