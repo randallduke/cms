@@ -11,10 +11,9 @@ router.all('/*', (req, res, next)=>{
 });
 
 
-
 router.get('/', (req, res)=>{
 
-    res.send('it work');
+    res.render('admin/posts/index');
 
 });
 
